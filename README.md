@@ -30,7 +30,7 @@ Me chamo João Pedro Pereira Milani, tenho 18 anos e sou natural de Penápolis/S
     alt="WordPress" 
     title="WordPress"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; filter: invert(1) brightness(0);"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" 
 />
 <img 
