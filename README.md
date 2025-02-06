@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pedro Milani
+# 👨‍💻 João Pedro Milani
 
 **`Desenvolvedor Web`**
 
