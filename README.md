@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo João Pedro Pereira Milani, tenho 18 anos e sou natural de Penápolis/SP. Concluí o ensino médio no SESI, com o curso técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Atualmente, estou cursando Tecnologia de Sistemas para Internet no IFSP. Sou fascinado por tecnologia desde muito cedo, e isso se tornou ainda mais evidente após meu curso técnico e meus diversos cursos complementares.
+Me chamo João Pedro Pereira Milani, tenho 18 anos e sou natural de Penápolis/SP. Atualmente estou cursando e aprofundando meus conhecimentos no Curso Superior de Tecnologia (CST) de Análise e Desenvolvimento de Sistemas no Centro Universitário Toledo. Anteriormente frequentei a rede SENAI-SP, onde me formei como técnico nesta mesma área.
 
 <p align="left">
     <a href="https://github.com/milanipedro?tab=repositories&sort=stargazers">
@@ -25,14 +25,6 @@ Me chamo João Pedro Pereira Milani, tenho 18 anos e sou natural de Penápolis/S
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="WordPress" 
-    title="WordPress"
-    width="30px" 
-    style="padding-right: 10px; filter: invert(1) brightness(0);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
@@ -65,6 +57,7 @@ Me chamo João Pedro Pereira Milani, tenho 18 anos e sou natural de Penápolis/S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP" 
